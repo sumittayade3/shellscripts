@@ -4,4 +4,5 @@ echo "We are from batch-25 and learning git/gihub"
 echo "We are learning Git/Github/JAVA"
 echo "We are learning Git/Github/JAVA/Git"
 echo "We are learning Git/Github"
+echo "We are learning Devops"
 
